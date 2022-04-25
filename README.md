@@ -9,10 +9,14 @@
 ## 설명
 
 ![image](https://user-images.githubusercontent.com/33277896/165007472-1b9e3d60-26a5-4438-a640-6667bc366271.png)
+
+
 목표 : 
 5x5 개의 방에 무작위로 숨어있는 blob을 정해진 클릭 수 이내에 모두 찾는다.
 
 ![image](https://user-images.githubusercontent.com/33277896/165007438-426130ed-04ee-4eeb-8e04-b6a58b7cdffe.png)
+
+
 blob이 없는 방의 경우 그 방의 상하좌우에 있는 blob 수 만큼의 꽃을 가진 화분이 생성된다.
 
 
